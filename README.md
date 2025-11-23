@@ -3,7 +3,7 @@ A calm, supportive companion for understanding health information
 <div align="center">
 🔗 Try EVA
 
-👉 <a href="https://cdn.botpress.cloud/webchat/v3.4/shareable.html?configUrl=https://files.bpcontent.cloud/2025/11/23/06/20251123064235-RK1ULF6G.json" target="_blank"><b>Launch Chatbot</b></a>
+👉 <a href="https://isha-techpm.github.io/ava-medical-chatbot/" target="_blank"><b>Launch Chatbot</b></a>
 
 </div>
 ⭐ Overview
