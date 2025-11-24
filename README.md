@@ -1,45 +1,75 @@
-👩‍⚕️ EVA — AI Health Support Chatbot
-A calm, supportive companion for understanding health information
-<div align="center">
-🔗 Try EVA
+# 👩‍⚕️ EVA — AI Health Support Chatbot  
+*A calm, supportive companion for understanding health information*
 
+<div align="center">
+
+🔗 **Try EVA Now**  
 👉 <a href="https://isha-techpm.github.io/ava-medical-chatbot/" target="_blank"><b>Launch Chatbot</b></a>
 
 </div>
-⭐ Overview
 
-EVA is an AI-powered health support assistant designed to help users understand symptoms, medical terminology, and general health concepts in a simple and comforting way. She creates a stress-free space for people seeking clarity without medical complexity.
+---
 
-✨ Features
+## ⭐ Overview  
+**EVA** is an AI-powered **Health Support Chatbot** designed to make health information simple, warm, and approachable. She helps users understand symptoms, terms, and general health concepts without medical jargon or fear-inducing explanations. EVA’s voice is calm, empathetic, and supportive — creating a space where people feel safe asking questions.
 
-Provides clear, friendly explanations of health-related terms
+---
 
-Helps users understand symptoms at a high, non-diagnostic level
+## ✨ Features  
+- Clear, friendly explanations of medical terms  
+- High-level symptom understanding (non-diagnostic)  
+- Guided, structured follow-up questions  
+- Empathetic and anxiety-reducing tone  
+- Safety-first design encouraging real medical consultation  
 
-Offers guided follow-up options and structured conversation paths
+---
 
-Uses an empathetic, calm tone designed to reduce anxiety
+## 🛡️ Safety First  
+EVA follows strict health-safety and AI-safety rules:
 
-Encourages users to consult licensed medical professionals
+- ❌ No diagnosis  
+- ❌ No treatment recommendations  
+- ❌ No medical speculation  
+- ❌ No emergency guidance  
+- ❌ No personal data storage  
 
-🛡️ Safety First
+✔️ **Information-only support**  
+✔️ **Ethical AI design**  
+✔️ **Emotionally supportive communication**  
 
-EVA follows strict safety guidelines:
+---
 
-❌ No diagnosis
+## 🧠 EVA’s Personality  
+EVA is intentionally designed to be:  
+- Soft, calming, and reassuring  
+- Clear and non-technical  
+- Emotionally aware  
+- Never authoritative  
+- Always safe and gentle  
 
-❌ No treatment instructions
+Her personality is built to reduce anxiety and help users navigate confusion safely.
 
-❌ No speculation
+---
 
-❌ No personal data collection
+## 🔮 Future Enhancements  
+- Multilingual support  
+- Voice conversation mode  
+- Accessibility-focused UI themes  
+- Extended health topic library  
+- “Explain like I’m 10” mode  
+- Physician-verified educational snippets  
 
-✔️ Information-only guidance
+---
 
-🎯 Purpose
+## 📜 License  
+This project is for educational and portfolio use only.  
+Not intended for medical decision-making or clinical use.
 
-EVA was created to make health information more approachable and easier to understand. Her goal is to empower users through clarity and reassurance while staying safe and responsible.
+---
 
-🧩 About the Project
+## 👩‍💻 Author  
+**Isha**  
+Product Manager • Data Analyst • AI Innovation Enthusiast  
+Focused on building user-centric, intuitive, and responsible AI experiences.
 
-This chatbot is part of my AI/ML portfolio, focused on conversational design, healthcare education, and safe AI deployment. EVA is continuously improving as I expand her knowledge base and refine her interaction design.
+
