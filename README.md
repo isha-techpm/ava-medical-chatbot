@@ -1,4 +1,4 @@
-🌿 EVA — AI Health Support Chatbot
+👩‍⚕️ EVA — AI Health Support Chatbot
 A calm, supportive companion for understanding health information
 <div align="center">
 🔗 Try EVA
