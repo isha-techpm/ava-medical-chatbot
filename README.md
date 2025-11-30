@@ -1,9 +1,9 @@
-# 👩‍⚕️ EVA — AI Health Support Chatbot  
+# 👩‍⚕️ Ava — AI Health Support Chatbot  
 *A calm, supportive companion for understanding health information*
 
 <div align="center">
 
-🔗 **Try EVA Now**  
+🔗 **Try Ava Now**  
 👉 <a href="https://isha-techpm.github.io/ava-medical-chatbot/" target="_blank"><b>Launch Chatbot</b></a>
 
 </div>
@@ -11,7 +11,7 @@
 ---
 
 ## ⭐ Overview  
-**EVA** is an AI-powered **Health Support Chatbot** designed to make health information simple, warm, and approachable. She helps users understand symptoms, terms, and general health concepts without medical jargon or fear-inducing explanations. EVA’s voice is calm, empathetic, and supportive — creating a space where people feel safe asking questions.
+**Ava** is an AI-powered **Health Support Chatbot** designed to make health information simple, warm, and approachable. She helps users understand symptoms, terms, and general health concepts without medical jargon or fear-inducing explanations. Ava’s voice is calm, empathetic, and supportive — creating a space where people feel safe asking questions.
 
 ---
 
@@ -25,7 +25,7 @@
 ---
 
 ## 🛡️ Safety First  
-EVA follows strict health-safety and AI-safety rules:
+Ava follows strict health-safety and AI-safety rules:
 
 - ❌ No diagnosis  
 - ❌ No treatment recommendations  
@@ -39,8 +39,8 @@ EVA follows strict health-safety and AI-safety rules:
 
 ---
 
-## 🧠 EVA’s Personality  
-EVA is intentionally designed to be:  
+## 🧠 Ava’s Personality  
+Ava is intentionally designed to be:  
 - Soft, calming, and reassuring  
 - Clear and non-technical  
 - Emotionally aware  
